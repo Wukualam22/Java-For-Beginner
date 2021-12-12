@@ -5,7 +5,7 @@ public class Perulangan
     {
         for (int i=0; i<=10; i++)
         {
-            System.out.println("ANDA BEDEBEST!");
+            System.out.println("ANDA Kocak");
         }
     }
 }
