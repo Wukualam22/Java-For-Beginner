@@ -16,7 +16,7 @@ public class Elseif
         char jawaban = input.next().charAt(0);
         if (jawaban =='A')
         {
-            System.out.println("Jawaban Anda Benar!");
+            System.out.println("Jawaban Anda Benar Bingits!");
         }
         else if (jawaban =='B')
         {
